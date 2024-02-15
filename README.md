@@ -1,3 +1,5 @@
 # Python course demo
 
-This is a *first repo*.
+That is a *first repo*.
+
+Hi.
