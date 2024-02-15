@@ -1,2 +1,3 @@
-# livepython
-My demo repo
+# Python course demo
+
+This is a *first repo*.
